@@ -1,2 +1,4 @@
 # halsostudie
-En hälsostudie och påverkan
+En hälsostudie med innehållande dataset.
+
+Python 3.13.7
